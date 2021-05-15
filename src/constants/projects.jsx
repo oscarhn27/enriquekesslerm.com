@@ -46,7 +46,7 @@ export const projects = [
       {
         info: (
           < ProjectShow
-            to="https://github.com/Qkessler/CloudQuestionsApp"
+            to="https://github.com/Qkessler/CloudQuestions"
             name="CloudQuestions App"
             description={constants.cqAppDescription}
             tags={[
